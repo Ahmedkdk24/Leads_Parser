@@ -1,0 +1,7 @@
+.env
+
+# Large/generated output data
+Output JSON/
+Output Text files/
+BNC PDFs/
+
