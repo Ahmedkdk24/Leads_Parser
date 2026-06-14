@@ -5,3 +5,7 @@ Output JSON/
 Output Text files/
 BNC PDFs/
 
+# Local environment and dependency folders
+node_modules/
+.venv/
+
